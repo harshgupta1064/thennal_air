@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "48849134507",
+    "firebase_url": "https://carbaxe-default-rtdb.firebaseio.com",
+    "project_id": "carbaxe",
+    "storage_bucket": "carbaxe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48849134507:android:de7b7c056f6024f98328ee",
+        "android_client_info": {
+          "package_name": "com.example.thennalair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFu6Bnz7w5BtOAjCc1N7HTjo2v7V9tkAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
